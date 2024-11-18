@@ -1,0 +1,1 @@
+# smartqa-extension-detectivos
